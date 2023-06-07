@@ -1,0 +1,63 @@
+
+* {
+    font-family: sans-serif;
+    background-color: rgb(222, 246, 245);
+   
+
+}
+p {    
+float: right;
+}
+
+
+.Start button{
+font-size: x-large;    
+padding: 10px;
+margin: 5px;
+border-radius: 5px;
+border: none;
+color: azure;
+background-color: lightseagreen;
+}
+main{
+    visibility: hidden;
+   
+}
+
+
+.question-1 button {   
+padding: 10px;
+margin: 5px;
+border-radius: 5px;
+border: none;
+color: azure;
+background-color: lightseagreen;
+   
+}
+.question-2 button{  
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+    color: azure;
+    background-color: lightseagreen;
+       
+ }
+ .question-3 button{  
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+    color: azure;
+    background-color: lightseagreen;
+       
+}
+.question-4 button{  
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+    color: azure;
+    background-color: lightseagreen;
+       
+    }
