@@ -63,20 +63,22 @@ function getQuestion(){
 questionText.textContent=quizQuestions[questionIndex].question
 for (let i = 0; i < quizQuestions[questionIndex].answers.length.button; i++){
 
-    var chocises = document.createElement("button");
+    var answers = document.createElement("button");
 
     console.log(quizQuestions[questionIndex].answers[i])
 
-    chocises.append('button')
+    answers.append('button')
 
    
-    button.append('button')
+  
   
 
 }
 }
 
 localStorage.getItem("score");
+
+
 
 
 

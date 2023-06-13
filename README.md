@@ -23,4 +23,16 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+## links 
+https://arevalo00.github.io/Quiz_project/
+
+https://github.com/Arevalo00/Quiz_project.git
+
+
+
+
+
+
+
+
 
