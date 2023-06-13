@@ -70,14 +70,17 @@ for (let i = 0; i < quizQuestions[questionIndex].answers.length.button; i++){
     chocises.append('button')
 
    
-
+    button.append('button')
   
-button.textcontent = questionText.textContent=quizQuestions[answersIndex].answers
+
 }
 }
 
+localStorage.getItem("score");
 
-button.append('button')
+
+
+
 
 
 
