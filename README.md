@@ -30,8 +30,10 @@ https://github.com/Arevalo00/Quiz_project.git
 
 
 
+![Screen Shot 2023-06-12 at 10 07 01 PM](https://github.com/Arevalo00/Quiz_project/assets/132723412/11495838-25a4-4a91-85b8-451d7e6e399e)
 
 
+![Screen Shot 2023-06-12 at 10 07 53 PM](https://github.com/Arevalo00/Quiz_project/assets/132723412/dff32830-b644-49e9-b1da-daf00a251935)
 
 
 
